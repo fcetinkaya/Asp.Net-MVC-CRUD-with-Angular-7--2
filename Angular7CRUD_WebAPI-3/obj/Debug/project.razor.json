@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\fatih.cetinkaya\\Downloads\\FTH\\Angular7CRUD_WebAPI-3\\Angular7CRUD_WebAPI-3\\Angular7CRUD_WebAPI-3.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
